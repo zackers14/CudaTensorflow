@@ -4,7 +4,7 @@
 
 
 ## Find inputs (images, as many as possible for processing/recognition training attempting to recognize a singular thing like cars, or traffic signs, etc)
-## Understand and translate https://www.datacamp.com/community/tutorials/tensorflow-tutorial from python to C++
+## Understand and translate https://www.tensorflow.org/tutorials/estimators/cnn from python to C++
 ## Make the necessary changes for the NN to scan/read all alphanumeric characters
 ## Make changes so that the NN can separate and read multiple letters on a single line
 ## Create a main class
